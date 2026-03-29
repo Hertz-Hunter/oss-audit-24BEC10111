@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This repository contains five Bash shell scripts demonstrating practical Linux automation skills, created for the Open Source Software Capstone Project.
+This repository contains five Bash shell scripts demonstrating practical Linux automation skills, created for the Open Source Software Project.
 
 Project Focus: Python
 This project audits Python, a high-level, open-source programming language distributed under the Python Software Foundation (PSF) License.
