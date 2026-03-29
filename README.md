@@ -7,20 +7,29 @@
 
 ## Project Overview
 
-This repository contains five Bash shell scripts demonstrating practical Linux automation skills as part of the Open Source Software Capstone Project. The software audited in this project is **Python** - an open-source, high-level programming language distributed under the **Python Software Foundation (PSF) License**.
+This repository contains five Bash shell scripts demonstrating practical Linux automation skills, created for the Open Source Software Capstone Project.
 
-Python was chosen for its ubiquity in Linux environments, its massive FOSS ecosystem, and its role as the backbone of modern data science, web development, and automation.
+Project Focus: Python
+This project audits Python, a high-level, open-source programming language distributed under the Python Software Foundation (PSF) License.
+
+Why Python was chosen:
+
+Linux Ubiquity: It is a native and essential component of almost all Linux environments.
+
+FOSS Ecosystem: It boasts a massive Free and Open-Source Software community.
+
+Industry Impact: It serves as the backbone for modern data science, web development, and scripting operations.
 
 
-## Project Structure
+Project Structure
 
 ```
 oss-audit-24BCG10110/
-├── script1.sh       # System Identity Report
-├── script2.sh       # FOSS Package Inspector
-├── script3.sh       # Disk and Permission Auditor
-├── script4.sh       # Log File Analyzer
-├── script5.sh       # Open Source Manifesto Generator
+├── script1.sh      
+├── script2.sh     
+├── script3.sh      
+├── script4.sh      
+├── script5.sh       
 └── README.md
 ```
 
@@ -46,8 +55,8 @@ Interactively prompts the user with three questions about their views on open-so
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/Mr-DaRkAgeNt/oss-audit-24BCG10110.git
-cd oss-audit-24BCG10110
+git clone (https://github.com/Hertz-Hunter/oss-audit-24BEC10111).git
+cd oss-audit-24BEC10111
 ```
 
 ### Step 2 — Grant Execution Permissions
@@ -88,11 +97,10 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 
 
-## Conclusion
+Conclusion
 
-This project provided hands-on experience with Linux shell scripting while exploring the real-world footprint of an open-source software project. By auditing Python - from its installation and filesystem locations to its licensing philosophy and community governance - this work bridges theoretical knowledge of FOSS principles with practical Linux skills.
-The five scripts collectively demonstrate core Bash concepts: system inspection, package management queries, filesystem permission analysis, log parsing, and interactive user input. Together, they reflect how open-source tools like Python are deeply applied into the system of Linux environments, and why understanding them matters for any serious developer or system administrator.
+This project bridges FOSS theory with practical Linux skills by auditing Python's real-world footprint. Through five Bash scripts covering system inspection, package management, permissions, and log parsing, the project demonstrates how deeply open-source tools like Python integrate into Linux environments—essential knowledge for any modern developer or system administrator.
 
-Open Source Software Project- Vityarthi.  
+**Open Source Software Project- Vityarthi.**  
 Student: Pratyush Kumar  
 Reg. No: 24BEC10111
